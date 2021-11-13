@@ -1,6 +1,6 @@
 # Lab 8 - Starter
  https://joyqiao1.github.io/Lab8_Starter/
- 
+ Jingjing Qiao && Zijie Lei
 
 1. In the Recipe project development pipeline, I should fit my automated tests within Github action that runs whenever code is pushed.<br>
 2. No.<br>
